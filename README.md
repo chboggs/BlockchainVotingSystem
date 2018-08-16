@@ -1,4 +1,4 @@
-# EECS 591 Research Project
+# Blockchain Voting System
 
 This research project proposes voting in polling stations using machines that use a blockchain (via MultiChain) to safely store immutable ballot records and allow for quick parallel counting.
 
