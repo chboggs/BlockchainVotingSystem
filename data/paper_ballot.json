@@ -1,0 +1,31 @@
+{
+    "elections":
+    [
+        {
+            "position": "PRESIDENT",
+            "options": [{"1": "TOM"}, {"2": "JERRY"}, {"3": "SYLVESTER"}, {"1": "TWEETY"}],
+            "writein": true
+        },
+        {
+            "position": "GOVERNOR",
+            "options": [{"1": "AXEL"}, {"2": "ELVIS"}, {"3": "FREDDIE"}, {"1": "JOHN"}],
+            "writein": true
+        },
+        {
+            "position": "0001//MAYOR",
+            "options": [{"1": "BERNIE"}, {"2": "SARAH"}, {"3": "JEB"}, {"1": "MITT"}],
+            "writein": false
+        }
+    ],
+    "propositions":
+    [
+        {
+            "proposition": "0001//FREEDOM",
+            "description": "Free snacks in the Beyster building 24/7."
+        },
+        {
+            "proposition": "0001//RELIEF",
+            "description": "Classes shortening to 30 minutes."
+        }
+    ]
+}
